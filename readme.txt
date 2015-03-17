@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Git merge --no-ff
 Git merge fast-forward
+Git merge --no-ff again
