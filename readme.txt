@@ -12,3 +12,4 @@ Git merge fast-forward again
 Branch fix bug
 Branch fix bug again
 I'm developing...
+I fixed bug 103.
