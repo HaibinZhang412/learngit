@@ -7,3 +7,4 @@ Git merge --no-ff
 Git merge fast-forward
 Git merge --no-ff again
 Git merge fast-forward again
+Branch fix bug
